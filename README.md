@@ -44,7 +44,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://res.cloudinary.com/responsivebreakpoints/image/upload/c_scale,w_717/v1640420156/react-shopping-cart_whole_qiydwi.png)
+[![Product Name Screen Shot][product-screenshot]](https://imgur.com/LtGmTaj)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -109,3 +109,4 @@ Frontend Portfolio: [https://winnie50431.github.io/front-end-portfolio/](https:/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [product-screenshot]: https://imgur.com/LtGmTaj
+[product name screen shot]: https://imgur.com/LtGmTaj

@@ -108,3 +108,4 @@ Frontend Portfolio: [https://winnie50431.github.io/front-end-portfolio/](https:/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[product-screenshot]: https://res.cloudinary.com/responsivebreakpoints/image/upload/c_scale,w_717/v1640420156/react-shopping-cart_whole_qiydwi.png

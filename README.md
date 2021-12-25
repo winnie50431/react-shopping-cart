@@ -108,5 +108,4 @@ Frontend Portfolio: [https://winnie50431.github.io/front-end-portfolio/](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: https://imgur.com/LtGmTaj
-[product name screen shot]: https://imgur.com/LtGmTaj
+[product-screenshot]: https://i.imgur.com/LtGmTaj.jpg

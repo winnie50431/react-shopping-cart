@@ -4,6 +4,7 @@
 <br />
 <div align="center">
 
+  <img src="./public/logo192.png" alt="react" />
   <h3 align="center">Shopping Cart with React and TypeScript</h3>
 
   <p align="center">
@@ -107,5 +108,4 @@ Frontend Portfolio: [https://winnie50431.github.io/front-end-portfolio/](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[product-screenshot]: https://res.cloudinary.com/responsivebreakpoints/image/upload/c_scale,w_717/v1640420156/react-shopping-cart_whole_qiydwi.png
+[product-screenshot]: https://imgur.com/LtGmTaj
